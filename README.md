@@ -8,3 +8,9 @@
   `ln -s /etc/nginx/sites-available/oxid.conf oxid.conf`
 * nginx neu starten
   `service nginx restart`
+
+
+Credits
+Stefan Krenz @ Mayflower
+
+Die Konfiguration ist aus folgendem Blogbeitrag entnommen: http://blog.mayflower.de/777-Nginx-Rewrite-Regeln-fuer-OXID-eShop-.html
